@@ -1,0 +1,13 @@
+streamlit
+pandas
+transformers
+torch
+langchain
+chromadb
+tiktoken
+sentence-transformers
+python-dotenv
+openpyxl
+langchain-community
+groq
+langchain_groq
